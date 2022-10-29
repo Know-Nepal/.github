@@ -9,7 +9,7 @@ Believe me, I have been in the similar situation as well.
 
 There are lots and lots of sources of data and information about Nepal, but they mostly are outdated or not so accurate or have some other problem.
 
-This is why we decided to work on fixing this issue and started a Github organization "Know Nepal".
+This is why we decided to work on fixing this issue and started a Github organization "**Know Nepal**".
 
 <h2 align="center">Our Mission</h2>
 Our plan is to make general data and information available in sharable file format (JSON and/or CSV). With time, we are even planning to create websites and APIs so that we can have a single source of truth for anything related to Nepal.
