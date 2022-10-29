@@ -21,7 +21,7 @@ So we expect you guys to be part of this journey.
 
 You can help us by sharing the information and data, contributing directory to the codebase and/or database, or even just being part of it.
 
-Let's create something big together 🙏
+**Let's create something big together** 🤝
 
 <br>
 <h3 align="center">Join our Discord Server to hop onto the journey!</h3>
