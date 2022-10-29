@@ -18,6 +18,7 @@ Our plan is to make general data and information available in sharable file form
 With awesome ideas come equally troublesome problems.
 This initiative is not possible without the support from every one of you.
 So we expect you guys to be part of this journey.
+
 You can help us by sharing the information and data, contributing directory to the codebase and/or database, or even just being part of it.
 
 Let's create something big together 🙏
